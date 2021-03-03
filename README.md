@@ -7,6 +7,7 @@
 It has been a looooong road, but I have grown used to a steady diet of r/programming, stackoverflow, and Udemy courses
 
 ### I usually work with
+> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"><img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 
 ### Right now I am working on
@@ -27,7 +28,7 @@ I haven't done much with MongoDB yet and I'm excited to learn!
 
 ### Let's connect!
 > I am always looking for new friends and mentors. There is so much we can learn from each other!
-*twitter* *linkedin* 
+<p align="center"><a href="https://twitter.com/tracietwitty"><img src="https://img.icons8.com/bubbles/70/000000/twitter-circled.png"/></a><a href="https://www.linkedin.com/in/tracientwite/"><img src="https://img.icons8.com/bubbles/70/000000/linkedin.png"/></a></p>
 
 ### A+ baybeeeee
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracietwitty&hide=go&theme=blueberry)
