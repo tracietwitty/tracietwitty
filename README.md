@@ -18,13 +18,10 @@ I haven't done much with MongoDB yet and I'm excited to learn!
   
 ### I am currently reading
 <p align="center">
-    <a href="https://www.goodreads.com/book/show/48890486-breath"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575339793l/48890486.jpg" alt="Breath" width="100" height="150" /></a>
-    <p>"Modern research is showing us that making even slight adjustments to the way we inhale and exhale can jump-start athletic performance; rejuvenate internal organs; halt snoring, asthma, and autoimmune disease; and even straighten scoliotic spines. None of this should be possible, and yet it is."</p>
+    <a href="https://www.goodreads.com/book/show/35412097-when"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502223427l/35412097._SY475_.jpg" alt="When" width="100" height="150" /></a>
+    <p>"Everyone knows that timing is everything. But we don't know much about timing itself. Our lives are a never-ending stream of "when" decisions: when to start a business, schedule a class, get serious about a person. Yet we make those decisions based on intuition and guesswork."</p>
 </p>
-<p align="center">
-    <a href="https://www.goodreads.com/book/show/7140754-solar?ac=1&from_search=true&qid=72ptkqsU7A&rank=1"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320510358l/7140754.jpg" alt="Solar" width="100" height="150"/></a>
-    <p>"When Michael’s personal and professional lives begin to intersect in unexpected ways, an opportunity presents itself in the guise of an invitation to travel to New Mexico. Here is a chance for him to extricate himself from his marital problems, reinvigorate his career, and very possibly save the world from environmental disaster."</p>
-</p>
+
 
 ### Let's connect!
 > I am always looking for new friends and mentors. There is so much we can learn from each other!
